@@ -1,0 +1,10 @@
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\bin\Debug\3111_우재윤.exe.config
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\bin\Debug\3111_우재윤.exe
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\bin\Debug\3111_우재윤.pdb
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\obj\Debug\3111_우재윤.csprojResolveAssemblyReference.cache
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\obj\Debug\_3111_우재윤.Form1.resources
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\obj\Debug\_3111_우재윤.Properties.Resources.resources
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\obj\Debug\3111_우재윤.csproj.GenerateResource.cache
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\obj\Debug\3111_우재윤.csproj.CoreCompileInputs.cache
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\obj\Debug\3111_우재윤.exe
+C:\Users\Mirim\source\repos\3111_우재윤\3111_우재윤\obj\Debug\3111_우재윤.pdb
